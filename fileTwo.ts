@@ -17,3 +17,5 @@ console.log('AEA');
 console.log('aea wn');
 
 console.log('NO SEAN PELOTUDOS  :k');
+
+const suma = 1 + 5
