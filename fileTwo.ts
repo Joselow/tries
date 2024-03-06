@@ -11,3 +11,5 @@ console.log('MEJOREN EN LO BASICO');
 console.log('DEPUES NO SABEN NI MR**');
 console.log('MANCOS TODOS');
 const theRealName = 'Typescript'
+const TheREALNAME = 'TYPESCTIPRRR'
+console.log('aprende manquito');
