@@ -14,5 +14,6 @@ const theRealName = 'Typescript'
 const TheREALNAME = 'TYPESCTIPRRR'
 console.log('aprende manquito');
 console.log('AEA');
+console.log('aea wn');
 
-
+console.log('NO SEAN PELOTUDOS  :k');
